@@ -10,9 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "expo-barcode-scanner": "^10.2.2",
     "react": "17.0.1",
     "react-dom": "16.13.0",
     "react-native": "0.64.2",
+    "react-native-unimodules": "^0.14.6",
     "shadow-cljs": "^2.15.2"
   },
   "devDependencies": {
